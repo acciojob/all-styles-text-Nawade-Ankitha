@@ -4,7 +4,9 @@
 	background-color:purple;
 	color:white;
 	width:200px;
+	max-height:50px;
 	border-left:5px solid green;
 	padding:10px;
 	font-size:20px;
+	
 }
